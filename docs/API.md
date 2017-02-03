@@ -47,6 +47,7 @@ Sonus's initialization accepts two paramaters:
    - `'sox'` - Sometimes `rec` is aliased to this (not often)
    - `'arecord'`- Reccomended for low powered linux devices (Pi, CHIP, etc)
  - `device` - [Only for 'arecord'] device identifier. ex: "hw:1,0"  
+
 **`speechRecognizer`** - the speech recognizer of your choice
 
 **Example:**
